@@ -9,10 +9,10 @@ return (
 Tertarik untuk berkolaborasi atau sekadar menyapa? Jangan ragu untuk
 menghubungi saya melalui salah satu cara di bawah ini.
 </p>
-<p className="font-semibold">Email: <a href="mailto:halo@contoh.com"
-className="text-blue-500 hover:underline">halo@contoh.com</a></p>
+<p className="font-semibold">Email: <a href="#"
+className="text-blue-500 hover:underline">radityafaiza@gmail.com</a></p>
 <p className="font-semibold">LinkedIn: <a href="#" className="text-blue-500
-hover:underline">Budi Sanjaya</a></p>
+hover:underline">FAIZA RADITYA IRAWAN</a></p>
 </div>
 </main>
 );
