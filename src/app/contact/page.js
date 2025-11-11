@@ -11,8 +11,8 @@ menghubungi saya melalui salah satu cara di bawah ini.
 </p>
 <p className="font-semibold">Email: <a href="#"
 className="text-blue-500 hover:underline">radityafaiza@gmail.com</a></p>
-<p className="font-semibold">LinkedIn: <a href="#" className="text-blue-500
-hover:underline">FAIZA RADITYA IRAWAN</a></p>
+<p className="font-semibold">no hp: <a href="#" className="text-blue-500
+hover:underline">088286779196</a></p>
 </div>
 </main>
 );
